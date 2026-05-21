@@ -1,0 +1,1 @@
+Si posees problemas para reclamar tu GitHub Student Developer Pack, por favor, agrega un comentario en [esta discusión de GitHub](https://github.com/gitcommituyu/gitcommituyu.github.io/discussions/3).

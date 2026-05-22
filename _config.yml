@@ -41,7 +41,7 @@ cs50:
     title: talleres eti1009
     description: Talleres de ética para ciencia de datos y machine learning 
     locale: es
-    alert: warning dismissible
+    #alert: warning dismissible
 
 # Exclude from processing.
 # The following items will not be processed, by default.

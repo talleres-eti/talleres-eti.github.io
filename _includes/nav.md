@@ -7,5 +7,4 @@
 
 - [Recursos](/2024/resources)
 - [Reconocimientos](/2024/acknowledgements)
-
 ---

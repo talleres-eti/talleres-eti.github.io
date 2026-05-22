@@ -1,1 +1,1 @@
-GitHub & Microsoft AI Lab for Good
+Talleres aplicados ETI1004

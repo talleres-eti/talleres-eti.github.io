@@ -1,2 +1,2 @@
 # [{{ site.title }}](/)
-Montevideo, Uruguay
+Santiago, Chile

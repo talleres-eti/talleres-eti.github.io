@@ -1,8 +1,4 @@
 
-[GitHub Student Developer Pack](/2024/sdp)
-
----
-
 1. [Git & GitHub](/2024/s1)
 2. [Inteligencia Artificial](/2024/s2)
 3. [GitHub Copilot](/2024/s3)

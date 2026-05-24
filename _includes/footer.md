@@ -1,1 +1,1 @@
-Talleres ETI1004, Pontificia Universidad Católica de Chile, Instituto de Éticas Aplicadas.
+Talleres ETI2000. Pontificia Universidad Católica de Chile. Instituto de Éticas Aplicadas.

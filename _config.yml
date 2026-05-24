@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Talleres Aplicados ETI1004
+title: Talleres Aplicados ETI2000
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -38,7 +38,7 @@ plugins:
 
 # CS50 Settings
 cs50:
-    title: Talleres Aplicados ETI1004
+    title: Talleres Aplicados ETI2000
     description: Talleres de ética para ciencia de datos y machine learning 
     locale: es
     #alert: warning dismissible

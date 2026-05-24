@@ -1,1 +1,1 @@
-Talleres ETI2000. Pontificia Universidad Católica de Chile. Instituto de Éticas Aplicadas.
+Talleres FIL2000. Pontificia Universidad Católica de Chile.

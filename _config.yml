@@ -38,7 +38,7 @@ plugins:
 
 # CS50 Settings
 cs50:
-    title: Talleres Aplicados ETI2000
+    title: Talleres Aplicados FIL2000
     description: Talleres de ética para ciencia de datos y machine learning 
     locale: es
     #alert: warning dismissible

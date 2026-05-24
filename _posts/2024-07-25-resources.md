@@ -8,7 +8,7 @@ permalink: /:year/resources
 
 # Recursos
 
-En esta sección hemos recopilado recursos para que puedas profundizar tus conocimientos en el área de la inteligencia artificial y las ciencias de la computación. Los recursos están organizados por nivel de experiencia sugerido y lenguaje en el que se encuentran disponibles.
+En esta sección hemos recopilado recursos para que puedas profundizar tus conocimientos. Los recursos están organizados por nivel de experiencia sugerido y lenguaje en el que se encuentran disponibles.
 
 ---
 

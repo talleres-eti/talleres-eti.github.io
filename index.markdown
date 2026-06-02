@@ -6,7 +6,7 @@ layout: page
 
 ---
 
-# Bienenid@ a los talleres aplicados FIL2000-1!
+# Bienvenid@ a los talleres aplicados FIL2000-1!
 
 ![Banner](/assets/images/main/banner_index.png)
 
@@ -20,7 +20,7 @@ Al finalizar estos talleres, serás capaz de:
 
 * Utilizar un LLM preentrenado de Hugging Face y justificar sus decisiones de caja negra.
 
-* Auditar y explicar modelos existentes y preentrenados tanto a audiencias técnicas como no técnicas.
+* Auditar y explicar modelos propios y preentrenados tanto a audiencias técnicas como no técnicas.
 
 ## Conocimientos previos deseables.
 Para aprovechar al máximo los talleres, es esperable que cuentes con los siguientes conocimientos:

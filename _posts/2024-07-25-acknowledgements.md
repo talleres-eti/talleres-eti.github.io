@@ -9,3 +9,5 @@ permalink: /:year/acknowledgements
 # Reconocimientos
 
 * Esta página web está basada en el tema de [Jekyll de CS50](https://cs50.readthedocs.io/themes/jekyll/).
+* Imagen de bienvenida del curso diseñada por [Ignacio Palma A.](https://gh.io/ignacio)
+

@@ -6,14 +6,6 @@ categories: main
 permalink: /:year/resources
 ---
 
----
-layout: page
-title:  "Recursos"
-date:   2024-07-21 18:43:20 -0400
-categories: main
-permalink: /:year/resources
----
-
 # Recursos
 
 En esta sección hemos recopilado recursos para que puedas profundizar tus conocimientos. Los recursos están organizados por nivel de experiencia sugerido y lenguaje en el que se encuentran disponibles.

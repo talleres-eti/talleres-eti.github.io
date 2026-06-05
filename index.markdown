@@ -14,13 +14,15 @@ layout: page
 Estos talleres tienen como objetivo desarrollar habilidades en interpretabilidad de modelos de machine learning, tanto a nivel global como local, abarcando modelos intrínsecamente interpretables y modelos de caja negra, evidenciando cómo las herramientas SHAP y LIME habilitan la transparencia algorítmica. Se trabajará también en la construcción de explicaciones sociales que comuniquen los resultados de los modelos de clasificación entrenados por los mismos estudiantes .
 
 Al finalizar estos talleres, serás capaz de: 
-* Aplicar SHAP y LIME para generar explicaciones técnicas y sociales sobre las decisiones de modelos.
 
-* Entrenar árboles de decisión y random forests garantizando principios de transparencia algorítmica.
+* Aplicar herramientas de explicabilidad (SHAP, LIME) para interpretar modelos propios y preentrenados.
+  
+* Reflexionar y deliberar éticamente sobre implicancias de modelos de ML usando criterios de transparencia técnica y explicabilidad social.
 
-* Utilizar un LLM preentrenado de Hugging Face y justificar sus decisiones de caja negra.
+* Auditar sistemas de machine learning identificando riesgos de opacidad y justificando decisiones de diseño, garantizando principios de transparencia algorítmica.
 
-* Auditar y explicar modelos propios y preentrenados tanto a audiencias técnicas como no técnicas.
+* Integrar principios de responsabilidad profesional en el ciclo de desarrollo o uso de modelos.
+
 
 ## Conocimientos previos deseables.
 Para aprovechar al máximo los talleres, es esperable que cuentes con los siguientes conocimientos:
